@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.*
+
+# Foundry build artifacts
+out/
+cache/
+
+# Broadcast files (optional to keep private)
+broadcast/
+
+# Node modules (if you installed any JS tooling)
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
