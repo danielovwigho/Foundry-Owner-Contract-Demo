@@ -193,7 +193,6 @@ forge script script/Owner.s.sol:OwnerScript \
   --rpc-url https://eth-sepolia.g.alchemy.com/v2/KEY \
   --private-key $PRIVATE_KEY \
   --broadcast
-
 # Base Sepolia
 forge script script/Owner.s.sol:OwnerScript \
   --rpc-url https://sepolia.base.org \
@@ -275,9 +274,8 @@ cast sig "changeOwner(address)"
 
 ## 📝 License
 
-GPL-3.0 License - See LICENSE file for details
+GPL-3.0 License
 
 ---
 
 **Happy Deploying! 🎉**
-# Foundry-Owner-Contract-Demo
